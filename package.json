@@ -1,0 +1,25 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "contains notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordLowdar/fantastic-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LordLowdar/fantastic-system/issues"
+  },
+  "homepage": "https://github.com/LordLowdar/fantastic-system#readme"
+}
